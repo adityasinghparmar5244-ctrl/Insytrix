@@ -1,0 +1,2 @@
+# Insytrix
+Dashboarding tool
